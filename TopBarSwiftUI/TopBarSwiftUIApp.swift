@@ -4,7 +4,7 @@ import SwiftUI
 struct TopBarSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            TobbarView()
+            TopbarView()
         }
     }
 }
